@@ -22,12 +22,11 @@
 3. ...
 4. ...  
 5. ...
-6. ...
 
 
 #### Implementasi
 1. Pengumpulan data dengan cara scraping. 
-> Data yang diambil hanya 200 baris sebagai sampel
+> [Data](https://raw.githubusercontent.com/Fransis96/007/main/dataset/sampel_data.csv) yang diambil hanya 200 baris sebagai sampel
 
 2. Pelabelan manual.
 > [Sampel data](https://docs.google.com/spreadsheets/d/1ICyXwX72Pkr90D9MvayznOExQgLA_lth_kK8V_3SP3U/edit?usp=sharing) diberi label manual
